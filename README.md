@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Scientist Projects:</h2>
 
 - <b>Machine Learning Projects</b>
-  - [Building Predictive Models to Improve Food Resilience](https://github.com/)
+  - [Building Predictive Models to Improve Food Resilience](https://github.com/MikaelAdikara/Predictive-Models-to-Improve-Food-Resilience)
   - [Customer Loyalty Prediction based on Baby Milk Transaction Data and Membership Programs using XGB](https://github.com/)
 - <b>
 <h2>🌱 I’m currently learning:</h2>
