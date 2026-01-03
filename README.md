@@ -11,12 +11,16 @@
 <h2>🌱 I’m currently learning:</h2>
 
 <h2> 🤳 Connect with me:</h2>
-- Instagram: @mikael.adikara
-- LinkedIN: mikaeladikara
 
 [<img align="left" alt="MikaelAdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MikaelAdi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [instagram]: https://www.instagram.com/mikael.adikara/
 [linkedin]: https://linkedin.com/in/mikaeladikara
+
+<br>
+Instagram: @mikael.adikara
+<br>
+Linkedin: mikaeladikara
 <!--
 -->
