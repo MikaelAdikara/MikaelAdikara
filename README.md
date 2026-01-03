@@ -18,7 +18,7 @@
 [instagram]: https://www.instagram.com/mikael.adikara/
 [linkedin]: https://linkedin.com/in/mikaeladikara
 
-<br><b>
+<br><br>
 Instagram: @mikael.adikara
 <br>
 Linkedin: mikaeladikara
