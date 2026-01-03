@@ -6,7 +6,7 @@
   - [Building Predictive Models to Improve Food Resilience](https://github.com/MikaelAdikara/Predictive-Models-to-Improve-Food-Resilience)
   - [Customer Loyalty Prediction based on Baby Milk Transaction Data and Membership Programs using XGB](https://github.com/MikaelAdikara/Customer-Loyalty-Prediction-based-on-Baby-Milk-Transaction-Data-and-Membership-Programs-using-XGB)
 - <b> AI Projects</b>
-  - [Building Predictive Models to Improve Food Resilience](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
+  - [AI Adoption on Company Revenue Simulator](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
 <h2>🌱 I’m currently learning:</h2>
 
 <h2> 🤳 Connect with me:</h2>
