@@ -7,6 +7,7 @@
   - [Customer Loyalty Prediction based on Baby Milk Transaction Data and Membership Programs using XGB](https://github.com/MikaelAdikara/Customer-Loyalty-Prediction-based-on-Baby-Milk-Transaction-Data-and-Membership-Programs-using-XGB)
 - <b> AI Projects</b>
   - [AI Adoption on Company Revenue Simulator](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
+  - [AI Driven Risk Prediction NLP Dashboard for Financial Service Complaints](https://github.com/MikaelAdikara/AI-Driven-Risk-Prediction-NLP-Dashboard-for-Financial-Service-Complaints)
 <h2>🌱 I’m currently learning:</h2>
 
 <h2> 🤳 Connect with me:</h2>
