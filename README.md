@@ -1,4 +1,4 @@
-<h1>I'm Mikael Alexander! <br/><a href="https://github.com/MikaelAdikara">Data Scientist</a>, <a href="https://www.linkedin.com/in/mikaeladikara/">AI Enthusiast</a></h1>
+<h1>I'm Mikael Alexander! <br/><a href="https://github.com/MikaelAdikara">Data Scientist</a>, <a href="https://www.linkedin.com/in/mikaeladikara/">AI Engineer</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
