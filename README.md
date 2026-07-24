@@ -5,6 +5,7 @@
 - <b> Machine Learning Projects</b>
   - [Building Predictive Models to Improve Food Resilience](https://github.com/MikaelAdikara/Predictive-Models-to-Improve-Food-Resilience)
   - [Customer Loyalty Prediction based on Baby Milk Transaction Data and Membership Programs using XGB](https://github.com/MikaelAdikara/Customer-Loyalty-Prediction-based-on-Baby-Milk-Transaction-Data-and-Membership-Programs-using-XGB)
+  - [Frequency-Aware Swin Transformer Pipeline for Face Anti-Spoofing with Extreme Class Imbalance](https://github.com/MikaelAdikara/Frequency-Aware-Swin-Transformer-Pipeline-for-Face-Anti-Spoofing-with-Extreme-Class-Imbalance)
 - <b> AI Projects</b>
   - [AI Adoption on Company Revenue Simulator](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
   - [AI Driven Risk Prediction NLP Dashboard for Financial Service Complaints](https://github.com/MikaelAdikara/AI-Driven-Risk-Prediction-NLP-Dashboard-for-Financial-Service-Complaints)
