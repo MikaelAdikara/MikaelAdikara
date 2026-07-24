@@ -17,7 +17,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MikaelAdi | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
-[<img align="left" alt="MikaelAdi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MikaelAdi | Instagram" width="22px" src="https://www.svgrepo.com/show/13639/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/mikael.adikara/
 [linkedin]: https://linkedin.com/in/mikaeladikara
