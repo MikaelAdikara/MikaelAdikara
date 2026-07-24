@@ -12,7 +12,7 @@
 <h2>🌱 I’m currently Working on:</h2>
 
 - [Mainsaham.com](https://www.mainsaham.com/)
-- [dashrank.id](dashrank.id)
+- [dashrank.id](https://www.dashrank.id/)
 
 <h2> 🤳 Connect with me:</h2>
 
