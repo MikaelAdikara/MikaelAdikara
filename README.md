@@ -9,11 +9,10 @@
   - [AI Adoption on Company Revenue Simulator](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
   - [AI Driven Risk Prediction NLP Dashboard for Financial Service Complaints](https://github.com/MikaelAdikara/AI-Driven-Risk-Prediction-NLP-Dashboard-for-Financial-Service-Complaints)
 <h2>🌱 I’m currently Working on:</h2>
-- mainsaham.com
-- dashrank.id
+- <b> Mainsaham.com</b>
+- <b> dashrank.id</b>
 
 <h2> 🤳 Connect with me:</h2>
-
 [<img align="left" alt="MikaelAdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MikaelAdi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
