@@ -8,7 +8,9 @@
 - <b> AI Projects</b>
   - [AI Adoption on Company Revenue Simulator](https://github.com/MikaelAdikara/AI-Adoption-Impact-Simulator)
   - [AI Driven Risk Prediction NLP Dashboard for Financial Service Complaints](https://github.com/MikaelAdikara/AI-Driven-Risk-Prediction-NLP-Dashboard-for-Financial-Service-Complaints)
-<h2>🌱 I’m currently learning:</h2>
+<h2>🌱 I’m currently Working on:</h2>
+- mainsaham.com
+- dashrank.id
 
 <h2> 🤳 Connect with me:</h2>
 
